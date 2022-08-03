@@ -1,7 +1,7 @@
 # RandomNumberGenerator
 
 To execute: have Java 1.8 installed and double click the executable jar "BallyCodingTest". 
-To check out the code, open up the "RandomNumberGen" in desireed IDE or formatter.
+To check out the code, open up the "RandomNumberGen" in desired IDE or formatter.
 
 Assumptions:
 1) Random number is between 0 and 1. If a desired number range is desired, then the numbers can get multiplied.
